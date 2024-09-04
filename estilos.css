@@ -1,0 +1,143 @@
+.obj1:hover {
+    font-size: small;
+    color: blue;    
+}
+
+.obj2:hover {
+    font-size: small;
+    color: brown;
+}
+
+.ct li:nth-child(1){
+    font-weight: bold;
+}
+
+div:visited{
+    color: yellow
+}  
+
+.ct li:nth-child(odd){
+    color: blue;
+}
+
+.ct li:nth-of-type(3){
+    font-style: italic;
+}
+
+input::placeholder{
+    color: blue;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+input:focus {
+    color: red;
+}
+
+.ct li:nth-child(4) {
+    background: yellow;
+    color: red;
+}
+
+h4::before {
+    content: suerte;
+    color: red;
+}
+
+input{
+    background-color: yellow;
+}
+
+.ct li::first-letter {
+    font-size:xx-large;
+}
+
+p::first-letter {
+    font-size:xx-large;
+}
+
+p::first-letter {
+    font-style:oblique;
+}
+
+input[type="checkbox"] {
+    accent-color: red;    
+}
+S
+.ct li:last-child {
+    font-style:italic;
+    color: red;
+}
+
+.jp li:not(:nth-child(3)){
+    font-style: oblique;
+}
+
+.xx tr:hover {
+    background: blueviolet;
+}
+
+.jp li:nth-of-type(odd) {
+    color: blue;
+}
+
+.jp li:hover {
+    background: yellow;
+}
+
+.jp li:nth-of-type(1) {
+    font-style:normal;
+    font-size: x-large;
+}
+
+.cd li:nth-of-type(odd) {
+    background: red;
+}
+
+.cd li:last-of-type {
+    color:blue
+}
+
+input[type="checkbox"] {
+    border-color: blue;
+}
+
+p:hover {
+    background: green;
+}
+
+.lima li:hover:first-child {
+    background: gray;
+}
+
+.lima li:hover:last-child {
+    background: gray;
+}
+
+h4::first-letter {
+    font-size: x-large;
+}
+
+h4::first-line {
+    font-style: oblique;
+}
+
+.ab tr:hover:nth-child(1) {
+    background: yellowgreen;
+}
+
+header::before {
+    content: "<<";
+}
+
+header::after {
+    content: ">>";
+}
+  
+.ct a {
+    font-size: 30px; 
+}
+
+.google{
+    color: red
+}
+
